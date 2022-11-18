@@ -1,0 +1,15 @@
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\bin\Debug\net6.0\lab10tysonscamahorn.exe
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\bin\Debug\net6.0\lab10tysonscamahorn.deps.json
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\bin\Debug\net6.0\lab10tysonscamahorn.runtimeconfig.json
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\bin\Debug\net6.0\lab10tysonscamahorn.dll
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\bin\Debug\net6.0\lab10tysonscamahorn.pdb
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.csproj.AssemblyReference.cache
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.AssemblyInfoInputs.cache
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.AssemblyInfo.cs
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.csproj.CoreCompileInputs.cache
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.dll
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\refint\lab10tysonscamahorn.dll
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.pdb
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\lab10tysonscamahorn.genruntimeconfig.cache
+C:\Users\tyson\my-code-dir\lab10tysonscamahorn\obj\Debug\net6.0\ref\lab10tysonscamahorn.dll
